@@ -25,7 +25,7 @@ Created by Phillip MacDonald - [Github](https://github.com/pmacdonald15)
 - Console-Table
 
 ## Installation
-The user will need to clone the repository onto their system, and then ensure the NPM packages listed above are installed. Please see each package's link for documentation and installation directions/code. Once completed, the user should run MySQL to select database, and to populate the tables, and any data already programmed. After exiting, the user may then run npm start; which will allow the user to go thru the prompts to use the application. 
+The user will need to clone the repository onto their system, and then ensure the NPM packages listed above are installed. Once completed, the user should run MySQL to select database, and to populate the tables, and any data already programmed. After exiting, the user may then run npm start; which will allow the user to go thru the prompts to use the application. 
 
 
 ## Testing
